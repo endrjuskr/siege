@@ -47,7 +47,7 @@
 #include <pthread.h>
 #include <errno.h>
 #include <joedog/defs.h>
-#include <tls1.h>
+// #include <tls1.h>
 
 /**
  * local variables and prototypes
